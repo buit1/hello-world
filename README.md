@@ -1,3 +1,4 @@
+Added a checkout test:q1
 Added test text test 2
 -world
 Hello World repository for Git tutorial
